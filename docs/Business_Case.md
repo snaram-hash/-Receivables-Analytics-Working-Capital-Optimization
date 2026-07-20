@@ -1,7 +1,7 @@
 # Business Case: Receivables Analytics & Working Capital Optimization
 
 ## Executive Summary
-A mid-sized Security Services Company providing manpower security solutions to 34 enterprise contractor clients is experiencing severe working capital pressure. Although the company is highly profitable on paper, recurring payment delays of 60–90 days from a subset of clients are causing significant cash flow instability. Security guards must be paid monthly regardless of client invoice settlement, exacerbating the liquidity constraints.
+Apex Industrial Solutions, a leading B2B supplier of heavy machinery and manufacturing equipment to 34 enterprise contractor clients, is experiencing severe working capital pressure. Although the company is highly profitable on paper, recurring payment delays of 60–90 days from a subset of clients are causing significant cash flow instability. Fixed operational costs and supplier payments must be settled monthly regardless of client invoice settlement, exacerbating the liquidity constraints.
 
 Deloitte's Analytics & Business Transformation practice has been engaged to design an end-to-end receivables intelligence system using SQL and Power BI to provide the CEO, CFO, and Finance Leadership Team with clear visibility into payment behaviors, aging risks, and cash flow forecasts.
 

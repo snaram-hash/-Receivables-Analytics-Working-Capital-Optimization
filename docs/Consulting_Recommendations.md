@@ -5,14 +5,14 @@ Based on the Receivables Analytics & Working Capital Optimization engagement, De
 
 ## Key Findings
 1. **The 80/20 Concentration Risk:** The Pareto Analysis SQL model proved that approximately 20% of the contractor portfolio is responsible for 80% of the overdue balances. 
-2. **Structural Cash Flow Gaps:** The Security Services business model dictates that payroll for guards is disbursed monthly, whereas average DSO for high-risk clients currently exceeds 85 days, forcing the company into short-term borrowing to bridge the liquidity gap.
+2. **Structural Cash Flow Gaps:** The B2B industrial equipment business model dictates that suppliers and fixed overheads must be settled monthly, whereas average DSO for high-risk clients currently exceeds 85 days, forcing the company into short-term borrowing to bridge the liquidity gap.
 3. **Ineffective Collection Prioritization:** Collection efforts were previously distributed equally across all accounts. The `Collection_Activity` data showed that high-value, high-risk clients received the same number of follow-ups as low-value, prompt-paying clients.
 
 ## Recommended Strategic Interventions
 
 ### 1. Credit Control & Payment Terms Revision
 - **Action:** Transition the identified "High Risk" contractors from 90-day to strict 45-day net payment terms.
-- **Action:** Implement a dynamic credit limit framework. If a contractor falls into the 60+ days aging bucket, their credit limit for future security service deployments should be temporarily suspended until the balance is cleared.
+- **Action:** Implement a dynamic credit limit framework. If a contractor falls into the 60+ days aging bucket, their credit limit for future equipment leasing and hardware deployments should be temporarily suspended until the balance is cleared.
 
 ### 2. Analytics-Driven Collection Strategy
 - **Action:** Utilize the Power BI "Contractor Risk Intelligence" dashboard daily. The credit control team must prioritize daily calls and escalations strictly based on the **Contractor Risk Score** and absolute dollar value in the 60-90 day bucket, abandoning the alphabetical approach.

@@ -9,24 +9,18 @@
 
 </div>
 
-## Monday Morning at 9:00 AM
-The CFO walks into the weekly Treasury meeting. The payroll for 275 security guards is due on Friday. 
+## 📖 Case Study Context: Apex Industrial Solutions
 
-He asks:
-> *"Why are we dipping into our high-interest credit line again? We billed ₹4.5 Cr last month!"*
+Apex Industrial Solutions, a leading B2B supplier of heavy machinery and manufacturing equipment, boasts strong on-paper profitability with ₹4.5 Cr in monthly billing. However, the company began experiencing severe liquidity constraints, forcing the Treasury department to repeatedly draw down on high-interest, short-term credit facilities to cover operational expenses and payroll.
 
-The answer lies buried in the ERP system. 
-Sales says the clients are "good for it." Operations says the invoices were sent on time. 
-But the reality is that the company is effectively acting as a free bank for its contractors. Average Days Sales Outstanding (DSO) has slipped to 85 days, and nobody knows exactly which clients are abusing the payment terms.
+An initial audit revealed a stark disconnect between recognized revenue and cash-on-hand. The company was effectively acting as a zero-interest bank for its enterprise clients, with the average **Days Sales Outstanding (DSO) ballooning to 85 days**. The finance team lacked the analytical infrastructure to pinpoint which specific clients were exploiting their payment terms and dynamically forecast short-term cash flow gaps.
 
-**This Analytics Platform exists to expose those bottlenecks and optimize working capital.**
+**This Analytics Platform was engineered to diagnose, expose, and mathematically resolve these working capital bottlenecks.**
 
 ---
 
 ## 🎯 Project Overview
-A Deloitte-style consulting engagement designed for a mid-sized Security Services Company facing severe working capital constraints. Despite high on-paper profitability, recurring payment delays of 60–90 days from enterprise contractor accounts are creating massive cash flow gaps.
-
-This project delivers an end-to-end **Receivables Intelligence System** using SQL and Power BI to transition the finance department from reactive collections to proactive, data-driven liquidity management.
+Designed as a Deloitte-style finance analytics engagement, this project provides a comprehensive **Receivables Intelligence & Working Capital Optimization System**. By migrating from static, month-end Excel reporting to an active SQL and Power BI ecosystem, the solution allows CFOs and Credit Controllers to transition from reactive debt collection to proactive liquidity management.
 
 ---
 

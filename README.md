@@ -5,7 +5,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-Advanced_Analytics-blue.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-DAX_%7C_Data_Modeling-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![Deloitte Framework](https://img.shields.io/badge/Methodology-Deloitte_Consulting-black.svg?style=for-the-badge)](#)
+[![Methodology](https://img.shields.io/badge/Methodology-Enterprise_Consulting-black.svg?style=for-the-badge)](#)
 
 </div>
 
@@ -20,7 +20,7 @@ An initial audit revealed a stark disconnect between recognized revenue and cash
 ---
 
 ## 🎯 Project Overview
-Designed as a Deloitte-style finance analytics engagement, this project provides a comprehensive **Receivables Intelligence & Working Capital Optimization System**. By migrating from static, month-end Excel reporting to an active SQL and Power BI ecosystem, the solution allows CFOs and Credit Controllers to transition from reactive debt collection to proactive liquidity management.
+Designed as an enterprise-grade finance analytics engagement, this project provides a comprehensive **Receivables Intelligence & Working Capital Optimization System**. By migrating from static, month-end Excel reporting to an active SQL and Power BI ecosystem, the solution allows CFOs and Credit Controllers to transition from reactive debt collection to proactive liquidity management.
 
 ---
 

@@ -1,7 +1,7 @@
 # Consulting Recommendations & Business Impact Assessment
 
 ## Overview
-Based on the Receivables Analytics & Working Capital Optimization engagement, Deloitte's Analytics practice has identified critical cash flow bottlenecks. The Power BI dashboard and underlying SQL models reveal that a disproportionate amount of working capital is tied up in accounts receivable due to a subset of large contractors persistently exceeding their payment terms.
+Based on the Receivables Analytics & Working Capital Optimization engagement, the internal analytics task force has identified critical cash flow bottlenecks. The Power BI dashboard and underlying SQL models reveal that a disproportionate amount of working capital is tied up in accounts receivable due to a subset of large contractors persistently exceeding their payment terms.
 
 ## Key Findings
 1. **The 80/20 Concentration Risk:** The Pareto Analysis SQL model proved that approximately 20% of the contractor portfolio is responsible for 80% of the overdue balances. 
